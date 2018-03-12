@@ -36,7 +36,10 @@
       </div>
       <!-- /.conainer-fluid -->
     </main>
+    <?php
+      include 'aside.php';
+    ?>
 </div>
 <?php
-require_once 'footer.php';
+include 'footer.php';
 ?>

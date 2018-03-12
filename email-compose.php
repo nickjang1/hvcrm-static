@@ -143,6 +143,9 @@
       </div>
       <!-- /.conainer-fluid -->
     </main>
+    <?php
+      include 'aside.php';
+    ?>
 </div>
 <?php
 include 'footer.php';

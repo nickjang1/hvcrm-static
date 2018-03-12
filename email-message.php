@@ -88,7 +88,7 @@
                   <img class="avatar" src="img/avatars/9.png">
                   <div class="from">
                     <span>Danyelle</span>
-                    danyelle@hvcrm.com
+                    danyelle@hoopesvision.com
                   </div>
                   <div class="date">Today, <b>3:47 PM</b></div>
                 </div>
@@ -144,7 +144,9 @@
       </div>
       <!-- /.conainer-fluid -->
     </main>
-
+    <?php
+      include 'aside.php';
+    ?>
 </div>
 <?php
 include 'footer.php';

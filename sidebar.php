@@ -9,7 +9,7 @@
           <strong>DANYELLE</strong>
         </div>
         <div class="text-muted">
-          <small>Marcketing</small>
+          <small>Marketing</small>
         </div>
         <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
           <button type="button" class="btn btn-link">
@@ -28,6 +28,12 @@
         <ul class="nav">
           <li class="nav-item">
             <a class="nav-link" href="dashboard.php"><i class="icon-speedometer"></i> Dashboard </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="reports.php"><i class="icon-pie-chart"></i> Reports</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="od-listings.php"><i class="icon-list"></i> OD Listings</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="calendar.php"><i class="icon-calendar"></i> Calendar</a>
